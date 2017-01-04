@@ -10,6 +10,34 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+ *= require partials/_media-query
+ *= require partials/_mixins
+ *= require partials/_variables
+ *= require _blog
+ *= require _cart
+ *= require _category
+ *= require _checkout-step
+ *= require color-option1
+ *= require color-option2
+ *= require color-option3
+ *= require _comingsoon
+ *= require _common
+ *= require _course
+ *= require default
+ *= require _footer 
+ *= require _footerV2
+ *= require _header
+ *= require _headerV3
+ *= require _home
+ *= require _homeV2
+ *= require _homeV3
+ *= require _pricing-table
+ *= require _reset
+ *= require _services
+ *= require _single-product
+ *= require style
+ *= require _testimonial
+ *= require _ui-kit
  *= require rs-plugin/css/settings
  *= require css/colors/color-option1
  *= require css/colors/color-option2
